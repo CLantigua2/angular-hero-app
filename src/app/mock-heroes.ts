@@ -1,7 +1,6 @@
 import { Hero } from "./hero"
 
 export const HEROES: Hero[] = []
-
 const names = [
 	"Mr. Nice",
 	"Narco",
